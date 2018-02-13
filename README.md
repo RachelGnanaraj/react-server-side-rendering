@@ -1,4 +1,4 @@
-ShopBack - Tech Test - Rachel
+React Server-Side Rendering
 
 Component Design - Carousel React component
 
